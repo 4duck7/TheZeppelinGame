@@ -5,7 +5,7 @@
 
 [Ludum Dare 46](https://ldjam.com/events/ludum-dare/46/) took place from Saturday April 18th to Tuesday April 21st, 2020
 As I was just 16 yo and I had some experience developing simple games with Unity before, I decided to give it a try. 
-It was my first ever game jam tbh. The theme for it was "keep it alive"
+It was my first ever game jam tbh. The theme for it was "keep it alive".
 
 Official project page: https://ldjam.com/events/ludum-dare/46/the-zeppelin
 
